@@ -1,5 +1,10 @@
 
 <style>
+  .container{
+    margin-top: 47px;
+    padding-left: 50px;
+    padding-right: 60px;
+  }
   .homeLeftColumn{
     width: 300px;
     float: left;
